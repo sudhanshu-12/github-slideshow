@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <meta content="utf-8" http-equiv="encoding">
-    <meta name="viewport" content="initial-scale=1">
 	<title> nutriprofit.gq</title>
 </head>
 <body>
